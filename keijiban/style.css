@@ -1,0 +1,135 @@
+.logo {
+    width: 300px;
+}
+.logo img {
+    width: 250px;
+}
+
+header {
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+
+header ul {
+    list-style-type: none;
+    line-height: 60px;
+}
+
+header ul li {
+    float: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+}
+
+main {
+    clear: left;
+}
+
+main .container{
+    width: 100%;
+}
+
+main .left{
+    width: 70%;
+    float: left;
+
+}
+
+.left h1 {
+    border-left: 4px solid black;
+    border-bottom: 2px solid black;
+    margin-right: 10px;
+    padding-left: 15px;
+}
+
+.left form {
+    background-color: #fbfbfb;
+    border: 2px solid #ebebeb;
+    margin: 0 auto;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.left form h2 {
+    border-left: 4px solid red;
+    padding-left: 10px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.left form div {
+    padding: 15px;
+    padding-top: 0px;
+}
+
+div p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.sumbit {
+    border: 1px solid lightgray;
+    border-bottom: 2px solid gray;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    color: white;
+}
+
+.box {
+    margin: 0 auto;
+    margin: 15px;
+    background-color: #fbfbfb;
+    border: 2px solid #ebebeb;
+    border-radius: 5px;
+}
+
+.box .kiji {
+    padding: 15px;
+}
+ 
+.box h3 {
+    border-bottom: 1px dotted black;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.handlename {
+    font-size: 12px;
+}
+
+.right {
+    float: left;
+    width: 25%;
+    margin-left: 20px;
+}
+
+.link h2{
+    margin-top: 33px;
+}
+
+.right h2{
+    border-bottom: 2px dotted gray;
+}
+
+.right ul {
+    list-style-type: none;
+    margin-left: -35px;
+    margin-top: -10px;
+    line-height: 30px;
+}
+
+
+footer {
+    clear: left;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
+
+
+ 
